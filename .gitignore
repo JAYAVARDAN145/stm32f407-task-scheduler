@@ -1,0 +1,15 @@
+# Build folders
+Debug/
+Release/
+
+# Object files
+*.o
+*.d
+*.elf
+*.map
+
+# Eclipse / STM32CubeIDE temp files
+.metadata
+
+# OS files
+.DS_Store
