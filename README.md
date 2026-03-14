@@ -148,7 +148,7 @@ typedef struct {
 ## Author
 
 **Jayavardan** — Embedded Systems Enthusiast  
-[GitHub](https://github.com/JAYAVARDAN145) • [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/jolapuram-jayavardan-120331218/))
+[GitHub](https://github.com/JAYAVARDAN145) • [LinkedIn](https://www.linkedin.com/in/jolapuram-jayavardan-120331218/)
 
 ---
 
